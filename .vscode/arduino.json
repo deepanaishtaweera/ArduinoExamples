@@ -1,3 +1,5 @@
 {
-    "programmer": "AVRISP mkII"
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "sketch": "Bluetooth\\Bluetooth.ino"
 }
