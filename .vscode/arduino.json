@@ -1,5 +1,6 @@
 {
     "programmer": "AVRISP mkII",
-    "board": "arduino:avr:uno",
-    "sketch": "Bluetooth\\Bluetooth.ino"
+    "board": "arduino:avr:mega",
+    "sketch": "Bluetooth\\Bluetooth.ino",
+    "configuration": "cpu=atmega2560"
 }
